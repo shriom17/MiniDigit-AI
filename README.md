@@ -65,7 +65,7 @@ The project experimented with different training durations and compared the resu
 
 The final model was evaluated on the MNIST test dataset.
 
-**Final Test Accuracy:** `XX.XX%`
+**Final Test Accuracy:** `99.04%`
 
 **Test Samples:** `10,000`
 
